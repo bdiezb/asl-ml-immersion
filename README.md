@@ -1,3 +1,6 @@
+# Bruno Diez --> Repository found in the course [Encoder-Decoder Architecture](https://partner.cloudskillsboost.google/course_templates/543) 
+Notebook explored in lab > https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/text_generation.ipynb 
+
 # Advanced Solutions Lab
 
 ## Overview
